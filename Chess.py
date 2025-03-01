@@ -1,1 +1,2 @@
-chigga
+import os
+import random
